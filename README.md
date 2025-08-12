@@ -23,7 +23,7 @@
 </head>
 <body>
   <header>
-    <h1>Kelurahan Contoh</h1>
+    <h1>Kelurahan Berkas</h1>
     <nav>
       <a href="#tentang">Tentang</a>
       <a href="#pejabat">Pejabat</a>
@@ -34,7 +34,7 @@
 
   <section id="tentang">
     <h2>Tentang Kelurahan</h2>
-    <p>Kelurahan Contoh adalah kelurahan dengan visi menjadi kelurahan yang maju dan sejahtera.</p>
+    <p>Kelurahan Berkas adalah kelurahan dengan visi menjadi kelurahan yang maju dan sejahtera.</p>
     <div class="photo">
       <img src="foto_kelurahan.jpg" alt="Foto Kantor Kelurahan">
     </div>
@@ -45,17 +45,17 @@
     <div class="pejabat-container">
       <div class="pejabat">
         <img src="lurah.jpg" alt="Foto Lurah">
-        <h3>Bapak Andi</h3>
+        <h3>Luna Maswita S.E</h3>
         <p>Lurah</p>
       </div>
       <div class="pejabat">
         <img src="sekretaris.jpg" alt="Foto Sekretaris">
-        <h3>Ibu Siti</h3>
+        <h3>piuiyfiuo</h3>
         <p>Sekretaris</p>
       </div>
       <div class="pejabat">
         <img src="kaur_pemerintahan.jpg" alt="Foto Kaur Pemerintahan">
-        <h3>Bapak Budi</h3>
+        <h3>ghgduyfkj</h3>
         <p>Kaur Pemerintahan</p>
       </div>
     </div>
@@ -69,13 +69,13 @@
 
   <section id="kontak">
     <h2>Kontak</h2>
-    <p>Alamat: Jl. Contoh No.1</p>
-    <p>Telepon: (0711) 123-456</p>
+    <p>Alamat: Jl. Ps. Berkas,Kec. Tlk. Segara, Kota Bengkulu, Bengkulu</p>
+    <p>Telepon:2639512649145195</p>
     <p>Jam Pelayanan: 08.00 - 15.00</p>
   </section>
 
   <footer>
-    &copy; 2025 Kelurahan Contoh
+    &copy; 2025 KKN 25 Universitas Muhammadiyah Bengkulu
   </footer>
 </body>
 </html>
